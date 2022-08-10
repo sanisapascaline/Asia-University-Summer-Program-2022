@@ -1,6 +1,4 @@
 # Asia University Summer Program 2022, Course: Artificial Intelligence 
-![Asia Univeristy](https://www.its.ac.id/international/wp-content/uploads/sites/66/2020/09/50.-Asia-University.jpg)
-
 Asia University (AU), Taiwan, founded in 2001, is one of the most innovative and international universities. Thanks to its carefully-planned development and creative breakthroughs, the young university has been well-regarded in many fields in Taiwan, and is now an internationally recognized comprehensive university.
 
 
