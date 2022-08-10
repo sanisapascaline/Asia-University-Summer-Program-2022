@@ -11,6 +11,17 @@ You will learn programming skills, machine learning, deep learning methods, and 
 ## The Program Features
 During the two-week study, you will attend classes for six hours a day and participate in problem-based AI projects. A group of TAs from Asia University will accompany you in the planned activities and throughout the entire learning process so as to provide you with adequate assistance. 
 
+## Course Syllabus 
+* Introduction to AIdea / Kaggle Platforms / Projects 
+* Colab and Python Basics 
+* Data Science Basics with Numpy and Pandas 
+* Machine Learning Basics with Scikit-learn 
+* Deep Learning Basics with SK-learn and TensorFlow 
+* Image and Video Processing with OpenCV 
+* Recommendation System Basics 
+* Automated Optical Inspection Basics 
+* Final Project Representation 
+
 Program Duration: 2-3 Weeks in June – August 2022
 
 Benefits:
@@ -20,3 +31,4 @@ Benefits:
 
 Fee:
 USD $20 for the certificate of attendance and transcript delivery
+
