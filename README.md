@@ -4,6 +4,8 @@ Asia University (AU), Taiwan, founded in 2001, is one of the most innovative and
 
 As one of the youngest universities in Taiwan, AU is committed to the ideas of health, caring, innovation and excellence, and pursues academic distinction, inspires innovative teaching, and cultivates talents for global community. The creation of an excellent learning and research environment for both students and faculty has always been placed as the highest priority in the university’s development.
 
+Program Duration: 2-3 Weeks in June – August 2022
+
 Benefits:
 * Tuition Waiver
 * Certificate of Attendance
